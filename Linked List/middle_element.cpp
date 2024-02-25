@@ -37,7 +37,7 @@ int main()
     }
 
     cout<<"Middle of the linked list: ";
-    cout<<v[v.size()/2]<<endl;
+    cout<<v[v.size()/2] <<endl;
 
     return 0;
 }
